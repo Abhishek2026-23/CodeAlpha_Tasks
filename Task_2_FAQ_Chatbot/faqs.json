@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a technology company that provides internship opportunities for students to gain hands-on experience in various fields including Artificial Intelligence, Web Development, and Data Science.",
+    "topic": "CodeAlpha"
+  },
+  {
+    "question": "How long is the CodeAlpha internship program?",
+    "answer": "The CodeAlpha internship program typically lasts for 4-6 weeks, depending on the specific track you choose. During this time, you'll work on real-world projects and gain practical experience.",
+    "topic": "Internship"
+  },
+  {
+    "question": "What are the requirements to join CodeAlpha internship?",
+    "answer": "To join CodeAlpha internship, you need basic programming knowledge, enthusiasm to learn, and commitment to complete the assigned tasks. No prior professional experience is required.",
+    "topic": "Internship"
+  },
+  {
+    "question": "Is the CodeAlpha internship paid or unpaid?",
+    "answer": "CodeAlpha offers both paid and unpaid internship opportunities. The compensation depends on the specific program, your skills, and the duration of the internship.",
+    "topic": "Internship"
+  },
+  {
+    "question": "What programming languages should I know for AI internship?",
+    "answer": "For the AI internship at CodeAlpha, you should have knowledge of Python, basic understanding of machine learning concepts, and familiarity with libraries like NumPy, Pandas, and scikit-learn.",
+    "topic": "AI Internship"
+  },
+  {
+    "question": "How do I apply for CodeAlpha internship?",
+    "answer": "You can apply for CodeAlpha internship by visiting our official website, filling out the application form, and submitting your resume along with a cover letter explaining your interest in the program.",
+    "topic": "Application"
+  },
+  {
+    "question": "What projects will I work on during the internship?",
+    "answer": "During the CodeAlpha internship, you'll work on practical projects like building chatbots, creating web applications, developing machine learning models, and data analysis projects that simulate real-world scenarios.",
+    "topic": "Projects"
+  },
+  {
+    "question": "Will I get a certificate after completing the internship?",
+    "answer": "Yes, upon successful completion of the CodeAlpha internship program, you will receive a certificate of completion that you can add to your resume and LinkedIn profile.",
+    "topic": "Certificate"
+  },
+  {
+    "question": "Can I do the internship remotely?",
+    "answer": "Yes, CodeAlpha offers remote internship opportunities. You can work from anywhere as long as you have a stable internet connection and can attend virtual meetings and training sessions.",
+    "topic": "Remote Work"
+  },
+  {
+    "question": "What support will I get during the internship?",
+    "answer": "During your CodeAlpha internship, you'll have access to mentors, regular feedback sessions, technical support, learning resources, and a community of fellow interns to help you succeed.",
+    "topic": "Support"
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine Learning is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions.",
+    "topic": "AI Concepts"
+  },
+  {
+    "question": "What is natural language processing?",
+    "answer": "Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language. It's used in applications like chatbots, translation services, and sentiment analysis.",
+    "topic": "AI Concepts"
+  },
+  {
+    "question": "How do I prepare for the AI internship interview?",
+    "answer": "To prepare for the AI internship interview, review basic Python programming, understand fundamental ML concepts, practice coding problems, and be ready to discuss any AI projects you've worked on.",
+    "topic": "Interview"
+  },
+  {
+    "question": "What career opportunities are available after the internship?",
+    "answer": "After completing the CodeAlpha internship, you can pursue careers as a Data Scientist, Machine Learning Engineer, AI Developer, Software Engineer, or continue with advanced studies in AI and related fields.",
+    "topic": "Career"
+  },
+  {
+    "question": "Can I extend my internship duration?",
+    "answer": "Yes, depending on your performance and availability, you may be able to extend your CodeAlpha internship duration. Discuss this with your mentor or the HR team during your internship period.",
+    "topic": "Extension"
+  }
+]

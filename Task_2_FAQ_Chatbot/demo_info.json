@@ -1,0 +1,26 @@
+{
+  "task": "Task 2: FAQ Chatbot",
+  "internship": "CodeAlpha Artificial Intelligence",
+  "technologies": [
+    "Python",
+    "Flask",
+    "NLTK",
+    "TF-IDF",
+    "Cosine Similarity"
+  ],
+  "features": [
+    "15 comprehensive FAQs",
+    "Real-time chat interface",
+    "NLP text processing",
+    "Confidence scoring",
+    "Responsive design",
+    "Fallback responses"
+  ],
+  "demo_url": "To be added after deployment",
+  "github_url": "To be added after pushing to GitHub",
+  "how_to_run": [
+    "python setup.py",
+    "python app.py",
+    "Open http://localhost:5000"
+  ]
+}
