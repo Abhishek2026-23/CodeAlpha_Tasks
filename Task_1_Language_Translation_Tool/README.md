@@ -1,26 +1,41 @@
-# Task 1: Language Translation Tool
+# Language Translation Tool
 
-This project is an AI-powered Language Translation Tool developed as part of the
-**CodeAlpha Artificial Intelligence Internship**.
+A web-based translation app built with Flask and Google Translate API.
 
-## 🔹 Description
-The tool allows users to translate text between multiple languages instantly
-using a real translation API. It supports auto language detection and provides
-a clean, user-friendly interface.
+## Features
 
-## 🔹 Features
-- Auto language detection
-- Multiple language support
-- Real-time translation
-- Copy translated text
-- Text-to-speech functionality
-- Responsive and modern UI
+- Translate text between multiple languages
+- Real-time translation using Google Translate
+- Copy translated text to clipboard
+- Text-to-speech for translations
+- Responsive design
 
-## 🔹 Technologies Used
-- HTML, CSS, JavaScript
-- Translation API
-- Deployed using Vercel
-  
-## 🔹 Live Demo
-👉 [Live Demo – Language Translation Tool](https://codealpha-translat-git-18cdea-abhishek-singhs-projects-d33c8d57.vercel.app/)
+## Live Demo
 
+https://codealpha-translator-tool.vercel.app
+
+## Tech Stack
+
+- Backend: Python Flask
+- Frontend: HTML, CSS, JavaScript
+- API: Google Translate
+- Deployment: Vercel
+
+## Setup
+
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python index.py`
+
+## Languages Supported
+
+English, Hindi, Spanish, French, German, Chinese, Japanese, Korean, Arabic, Portuguese, Russian, Italian, Dutch, Turkish
+
+## Usage
+
+1. Enter text to translate
+2. Select source and target languages
+3. Click "Translate"
+4. Copy or listen to the translation
+
+Built for CodeAlpha AI Internship.
